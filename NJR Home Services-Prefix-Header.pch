@@ -1,0 +1,14 @@
+//
+//  NJR Home Services-Prefix-Header.pch
+//  NJR Home Services
+//
+//  Created by Bogdan on 11/21/16.
+//  Copyright © 2016 Bogdan. All rights reserved.
+//
+
+#ifndef NJR_Home_Services_Prefix_Header_pch
+#define NJR_Home_Services_Prefix_Header_pch
+
+#import "SVProgressHUD.h"
+
+#endif /* NJR_Home_Services_Prefix_Header_pch */
